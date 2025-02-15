@@ -3,9 +3,9 @@ import { ToolsModel } from "./tools.model";
 export const TOOLS: ToolsModel[] = [
   {
     id: 1,
-    title: "Confêrencia Física",
+    title: "Tabelas de Cobrança",
     description:
-      "Modulo de conferência física de mercadorias.",
+      "Administração de Tabelas de Cobrança.",
     version: 1,
     link: "",
   }
